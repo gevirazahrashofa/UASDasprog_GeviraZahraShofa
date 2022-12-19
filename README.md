@@ -23,7 +23,7 @@ Matriks merupakan kumpulan-kumpulan bilangan yang disusun secara baris (vertikal
           cout << "Mata Kuliah		: Dasar Pemrograman"<<endl;
           cout << "Nama			: Gevira Zahra Shofa"<<endl;
           cout << "NIM			: 1227050050"<<endl;
-          cout << "Jurusan		: Teknik Informatika"<<endl;
+          cout << "Jurusan			: Teknik Informatika"<<endl;
           cout << "......................................"<<endl;
 
           int A [20][20];
@@ -60,7 +60,7 @@ Matriks merupakan kumpulan-kumpulan bilangan yang disusun secara baris (vertikal
 	cout << "Mata Kuliah		: Dasar Pemrograman"<<endl;
 	cout << "Nama			: Gevira Zahra Shofa"<<endl;
 	cout << "NIM			: 1227050050"<<endl;
-	cout << "Jurusan			: Teknik Informatika"<<endl;
+	cout << "Jurusan		: Teknik Informatika"<<endl;
 	cout << "......................................"<<endl;
     int arr[100][100], jumlahBaris, jumlahKolom, i, j, baris, kolom;
 
