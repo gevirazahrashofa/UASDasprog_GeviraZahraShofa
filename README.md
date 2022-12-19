@@ -13,7 +13,7 @@ Matriks merupakan kumpulan-kumpulan bilangan yang disusun secara baris (vertikal
 
 # Source code   
         PROGRAM PERTAMA
-        
+        ```
         #include <iostream>
         using namespace std;
 
@@ -100,7 +100,7 @@ Matriks merupakan kumpulan-kumpulan bilangan yang disusun secara baris (vertikal
     cout << endl;
     return 0;
 }
-      
+ ```     
   # Output
   
   ......................................
